@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:yandex="http://news.yandex.ru"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:turbo="http://turbo.yandex.ru"
+     version="2.0">
+    <channel>
+        <!-- Информация о сайте-источнике -->
+        <title>pavel76555.github.io</title>
+        <link>pavel76555.github.io/</link>
+        <description>Краткое описание канала</description>
+        <language>ru</language>
+        <turbo:analytics></turbo:analytics>
+        <turbo:adNetwork></turbo:adNetwork>
+        <item turbo="true">
+            <!-- Информация о странице -->
+            <turbo:extendedHtml>true</turbo:extendedHtml>
+            <link>http://example.com/page2.html</link>
+            <turbo:source></turbo:source>
+            <turbo:topic></turbo:topic>
+            <pubDate>Tue, 03 Jul 2024 12:00:00 +0300</pubDate>
+            <author>Павел Струков</author>
+            <metrics>
+                <yandex schema_identifier="123123">
+                    <breadcrumblist>
+                        <breadcrumb url="http://example.com/" text="Домашняя"/>
+                        <breadcrumb url="http://example.com/page2.html" text="Страница 2"/>
+                    </breadcrumblist>
+                </yandex>
+            </metrics>
+            <yandex:related></yandex:related>
+            <turbo:content>
+                <![CDATA[
+                    <header>
+                      <h1>Уникальный сайт</h1>
+                    </header>
+                    <p>Hello world!</p>
+                ]]>
+            </turbo:content>
+        </item>
+    </channel>
+</rss>
