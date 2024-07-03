@@ -9,7 +9,9 @@
         <link>pavel76555.github.io/</link>
         <description>Краткое описание канала</description>
         <language>ru</language>
-        <!-- <turbo:analytics></turbo:analytics> -->
+        <turbo:analytics type="Yandex"
+                         id="97734076">
+        </turbo:analytics>
         <!-- <turbo:adNetwork></turbo:adNetwork> -->
         <item turbo="true">
             <!-- Информация о странице -->
