@@ -22,8 +22,8 @@
             <metrics>
                 <yandex schema_identifier="123123">
                     <breadcrumblist>
-                        <breadcrumb url="http://example.com/" text="Домашняя"/>
-                        <breadcrumb url="http://example.com/page2.html" text="Страница 2"/>
+                        <breadcrumb url="http://pavel76555.github.io/" text="Домашняя"/>
+                        <breadcrumb url="http://pavel76555.github.io/page2.html" text="Страница 2"/>
                     </breadcrumblist>
                 </yandex>
             </metrics>
